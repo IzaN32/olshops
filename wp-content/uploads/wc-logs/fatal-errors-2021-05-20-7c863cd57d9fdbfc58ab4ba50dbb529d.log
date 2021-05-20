@@ -1,0 +1,28 @@
+2021-05-20T07:37:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\New folder\htdocs\OLstore\wp-content\plugins\ocean-extra\includes\widgets\instagram.php pada baris 9
+
+2021-05-20T07:37:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\New folder\htdocs\OLstore\wp-content\plugins\ocean-extra\includes\widgets\mailchimp.php pada baris 8
+
+2021-05-20T07:37:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\New folder\htdocs\OLstore\wp-content\plugins\ocean-extra\includes\widgets\recent-posts.php pada baris 9
+
+2021-05-20T07:37:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\New folder\htdocs\OLstore\wp-content\plugins\ocean-extra\includes\widgets\social.php pada baris 10
+
+2021-05-20T07:37:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\New folder\htdocs\OLstore\wp-content\plugins\ocean-extra\includes\widgets\social.php pada baris 10
+
+2021-05-20T07:37:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\New folder\htdocs\OLstore\wp-content\plugins\ocean-extra\includes\widgets\tags.php pada baris 9
+
+2021-05-20T07:37:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\New folder\htdocs\OLstore\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\ShippingLabelBanner.php pada baris 15
+
+2021-05-20T07:37:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\New folder\htdocs\OLstore\wp-includes\block-patterns\three-buttons.php pada baris 9
+
+2021-05-20T07:37:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\New folder\htdocs\OLstore\wp-includes\blocks.php pada baris 203
+
+2021-05-20T07:37:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\New folder\htdocs\OLstore\wp-content\plugins\mailpoet\lib\Config\PersonalDataErasers.php pada baris 5
+
+2021-05-20T07:37:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\New folder\htdocs\OLstore\wp-content\plugins\mailpoet\lib-3rd-party\Idiorm\idiorm.php pada baris 520
+
+2021-05-20T07:37:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\New folder\htdocs\OLstore\wp-content\plugins\mailpoet\lib\Doctrine\Driver\PDOStatement.php pada baris 88
+
+2021-05-20T07:37:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\New folder\htdocs\OLstore\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-taxonomies.php pada baris 10
+
+2021-05-20T07:37:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded di C:\xampp\New folder\htdocs\OLstore\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-menus.php pada baris 11
+
